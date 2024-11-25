@@ -43,3 +43,17 @@ Notes regarding phenomenological consciousness ("PC").
 6. Achievement of PC as a result of selective pressure implies an interface that is "discoverable".
 
 7. Achievement and exploitation of PC by biological systems implies an interface that is operable in the conditions of the body. 
+
+8. The scope of PC is a physically connected nervous system.
+
+8.1. (Justification) Injury to nerves which connect to limbs results in the loss of sensation from the limbs in question.
+
+8.2. (Justification) Physical severance of the corpus callosum results in a lateralized loss of ability to report on sensations from the body.
+
+8.3. (Justification) No verifiable means exists to share consciousness across bodies.
+
+8.4. (Justification) Consciousness is reported to include many qualia at once, which are received in various physical places by the brain's many parts.
+
+8.5. Therefore, the shape and scope of consciousness is tightly coupled to the physical shape of the nervous system.
+
+9. Some neural activity is recognized as _not_ contributing to the conscious experience.
