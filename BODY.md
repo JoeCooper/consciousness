@@ -10,6 +10,8 @@ Notes regarding phenomenological consciousness ("PC").
 
 1.4. Therefore, consideration of PC implicitly admits this witness testimony.
 
+1.5. To reject this testimony is to self-identify as a "phenomenological zombie." To abstain from doing so is to admit witness testimony.
+
 2. Whereas testimony is performed via the body, in order for witness testimony to be valid, PC must affect the body.
 
 2.1. If the body is not affected by PC, then testimonial of PC is coincidental to its existence.
