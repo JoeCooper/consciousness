@@ -52,7 +52,7 @@ Notes regarding phenomenological consciousness ("PC").
 
 8.2. (Justification) Physical severance of the corpus callosum results in a lateralized loss of ability to report on sensations from the body.
 
-8.3. (Justification) No verifiable means exists to share consciousness across bodies.
+8.3. (Justification) No consistent and verifiable means exists to expand consciousness beyond a singular nervous system.
 
 8.4. (Justification) Consciousness is reported to include many qualia at once, which are received in various physical places by the brain's many parts.
 
